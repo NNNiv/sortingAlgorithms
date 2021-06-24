@@ -7,4 +7,3 @@ def bubbleSort(arr):
     
     return arr
 
-print(bubbleSort([45,677,23,1,10]))
