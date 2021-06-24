@@ -1,1 +1,1 @@
-#A repository of a few sorting algorithms
+# A repository of a few sorting algorithms
