@@ -1,1 +1,1 @@
-# A repository of a few sorting algorithms
+# NCERT sorting algorithms go brr
